@@ -25,10 +25,6 @@ This repository contains my analysis of the Titanic dataset, completed as Task 2
 2. Install requirements: `pip install -r requirements.txt`
 3. Open and run `Prodigy_DS_Task2.ipynb`
 
-## Insights
-![Survival by Gender](images/survival_by_gender.png)
-![Survival by Class](images/survival_by_class.png)
-
 ## Future Work
 - Implement machine learning models
 - Hyperparameter tuning
