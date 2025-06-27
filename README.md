@@ -35,4 +35,4 @@ This repository contains my analysis of the Titanic dataset, completed as Task 2
 - Model deployment
 
 ## Dataset Source
-[Kaggle Titanic Competition]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic/data))
+[Kaggle Titanic Competition]https://www.kaggle.com/c/titanic/data
